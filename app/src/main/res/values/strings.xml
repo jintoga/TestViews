@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">TestViews</string>
     <string name="trigger_animation">Trigger animation</string>
+    <string name="enter_something">Enter something</string>
 </resources>
